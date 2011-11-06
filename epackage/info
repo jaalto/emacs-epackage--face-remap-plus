@@ -15,7 +15,7 @@ Vcs-Browser:
 Vcs-User:
 Vcs-Password:
 Homepage:
-Wiki: http://www.emacswiki.org/emacs/SetFonts
+Wiki: http://www.emacswiki.org/emacs/GlobalTextScaleMode
 Commentary:
 Description: interactive font size manipulation functions
  Commands to adjust text size: text-scale-decrease, text-scale-increase and
