@@ -1,2 +1,2 @@
 (autoload 'text-scale-increase                  "face-remap+" "" t)
-(provide 'face-remap-plus-autoloads)
+(provide 'face-remap-plus-epkg-autoloads)
